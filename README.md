@@ -1,6 +1,6 @@
 # Youtube-playlist-downloader
 ##  Description 
-    This is made because I do not know how to use Youtubuedl 
+    This is made because I do not know how to use Youtubedl 
     
 ### Taken help from : 
   * https://pytube.io/en/latest/user/playlist.html
